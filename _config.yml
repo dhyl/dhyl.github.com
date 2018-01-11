@@ -71,5 +71,5 @@ deploy:
   type: git
   repository:
     coding: git@git.coding.net:dhyy/dhyy.git,master
-    # github: git@github.com:dhyl/dhyl.github.io.git,master
+    github: git@github.com:dhyl/dhyl.github.io.git,master
   branch: master
